@@ -1,7 +1,5 @@
 Hello👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Partfolio
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on ...
