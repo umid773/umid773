@@ -1,6 +1,6 @@
 Hello👋
 
-🧠 Developer
-🚀 Code.Build.Innovate
-👌 Learning every day
-💻 Open-source lover
+💻 Software Developer
+🚀 Building the future with code
+↗️ Learning every day
+🧠 Problem Solver | Tech Enthusiast
